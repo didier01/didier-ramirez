@@ -24,8 +24,15 @@
 }
 .subtitle2 {
   font-style: italic;
-  margin-top: 2rem;
+  margin: 2rem auto;
   font-size: 18px;
+}
+.icons {
+  text-align: center;
+  position: absolute;
+  bottom: 50px;
+  left: 0;
+  right: 0;
 }
 
 /*Para pantalla tablet o celular muy grande */
@@ -35,6 +42,9 @@
   }
   .subtitle {
     font-size: 20px;
+  }
+  .icons {   
+    bottom: 30px;
   }
 }
 
@@ -54,5 +64,8 @@
   .subtitle2 {
     font-size: 16px;
     margin-top: 1rem;
+  }
+  .icons {   
+    bottom: 25px;
   }
 }
