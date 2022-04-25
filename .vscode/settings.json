@@ -4,5 +4,6 @@
         ".vscode{,/**}"
     ],
     "appService.defaultWebAppToDeploy": "",
-    "appService.deploySubpath": "dist\\Didier-Page"
+    "appService.deploySubpath": "dist\\Didier-Page",
+    "appService.showBuildDuringDeployPrompt": false
 }
