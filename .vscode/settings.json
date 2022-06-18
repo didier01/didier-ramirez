@@ -3,7 +3,7 @@
         "node_modules{,/**}",
         ".vscode{,/**}"
     ],
-    "appService.defaultWebAppToDeploy": "",
+    "appService.defaultWebAppToDeploy": "None",
     "appService.deploySubpath": "dist\\Didier-Page",
     "appService.showBuildDuringDeployPrompt": false
 }
