@@ -1,0 +1,19 @@
+.header-section {
+  height: 500px;
+  background: gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('../../../assets/images/banner-home.jpg'); 
+  backdrop-filter: brightness(0.5);
+}
+
+.home-banner {
+  text-align: center;
+}
+
+.title-home-banner {
+  font-size: 45px;
+  letter-spacing: 10px;
+}
+

@@ -1,5 +1,7 @@
 .header-section {
   height: 100%;
+  background-image: url('../../../assets/images/mountain.jpg'); 
+  backdrop-filter: brightness(0.5);
 }
 
 .coming-soon {
@@ -68,3 +70,14 @@
     bottom: 25px;
   }
 }
+
+
+/* body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  background-image: url('../../../assets/images/mountain.jpg'); 
+  backdrop-filter: brightness(0.5);
+} */
+
